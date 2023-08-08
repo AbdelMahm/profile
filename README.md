@@ -1,2 +1,1 @@
-# firstGithubPage
-this is my first github page
+This is my profile page :)
